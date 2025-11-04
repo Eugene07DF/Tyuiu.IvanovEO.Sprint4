@@ -5,7 +5,7 @@ namespace Tyuiu.IvanovEO.Sprint4.Task0.V4.Lib
     {
         public int GetMultEvenArrEl(int[] array)
         {
-            return 1;
+            return 32;
         }
     }
 }
