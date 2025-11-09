@@ -361,3 +361,10 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/Tyuiu.IvanovEO.Sprint4.Task5.V21.Lib/Tyuiu.IvanovEO.Sprint4.Task5.V21.Lib.csproj
+/Tyuiu.IvanovEO.Sprint4.Task5.V21.Test/Tyuiu.IvanovEO.Sprint4.Task5.V21.Test.csproj
+/Tyuiu.IvanovEO.Sprint4.Task5.V21/Program.cs
+/Tyuiu.IvanovEO.Sprint4.Task5.V21/Tyuiu.IvanovEO.Sprint4.Task5.V21.csproj
+/Tyuiu.IvanovEO.Sprint4.Task5.V21.Test/MSTestSettings.cs
+/Tyuiu.IvanovEO.Sprint4.Task5.V21.Test/DataServiceTest.cs
+/Tyuiu.IvanovEO.Sprint4.Task5.V21.Lib/DataService.cs
