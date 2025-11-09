@@ -1,2 +1,1 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using Tyuiu.IvanovEO.Sprint4.Task5.V21.Lib;

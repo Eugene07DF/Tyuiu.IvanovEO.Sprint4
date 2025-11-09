@@ -1,11 +1,13 @@
-﻿namespace Tyuiu.IvanovEO.Sprint4.Task5.V21.Test
+﻿using Tyuiu.IvanovEO.Sprint4.Task5.V21.Lib;
+namespace Tyuiu.IvanovEO.Sprint4.Task5.V21.Test
 {
     [TestClass]
-    public sealed class Test1
+    public sealed class DataServiceTest
     {
         [TestMethod]
-        public void TestMethod1()
+        public bool TestMethod1()
         {
+            return true;
         }
     }
 }
