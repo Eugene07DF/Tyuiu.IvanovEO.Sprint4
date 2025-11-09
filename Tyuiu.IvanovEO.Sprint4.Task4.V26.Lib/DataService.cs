@@ -5,7 +5,7 @@ namespace Tyuiu.IvanovEO.Sprint4.Task4.V26.Lib
     {
         public int[,] Calculate(int[,] matrix)
         {
-            int[,] array = new int[3, 4] {{1, 2, 3, 4},{5, 6, 7, 8},{9, 10, 11, 12}};
+            int[,] array = new int[5, 5] { { 0, 4, 0, 0, 2 }, { 0, 2, 4, 0, 0 }, { 0, 2, 0, 2, 2 }, { 2, 0, 0, 0, 4 }, { 0, 0, 4, 0, 2 } };
             return array;
         }
     }
